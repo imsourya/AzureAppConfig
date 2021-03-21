@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "APP_CONF_CONNECTION_STRING":"Endpoint=https://eympapp.azconfig.io;Id=ZwWj-l0-s0:WSWK2Lt8n6CGwp9mklMw;Secret=bJonic2D6pYeS+ERZS6KC/qpNbzMwPeggnrYN9z4wCk="
+  }
+}
